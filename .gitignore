@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/target/
+*.iml
+# Project exclude paths
+/client-server/target/
+/consumer-server/target/
+/eureka-server/target/
+/provider-server/target/
